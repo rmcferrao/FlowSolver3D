@@ -26,6 +26,7 @@ Element Method.
 
 <p align="center">
   <img src="screenshots/mesh.png" width="300" />
+  <br />
   <img src="screenshots/meshSub1.png" width="300" />
   <img src="screenshots/meshSub2.png" width="300" />
 </p>
@@ -35,7 +36,6 @@ Element Method.
 
 <p align="center">
   <img src="screenshots/velocity.png" width="300"/>
-  <br />
   <img src="screenshots/pressure.png" width="300"/> 
 </p>
 <br />
